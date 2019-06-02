@@ -7,10 +7,16 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ExpressJs", "TypeScript"],
+  "keywords": [
+    "ExpressJs",
+    "TypeScript"
+  ],
   "author": "yihyang",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1"
   }
 }
